@@ -84,7 +84,6 @@ pep.close()
 
 
 ###LENDO CSV
-
 import csv
 arquivo = open('C:\\Users\\Bruno\\Downloads\\PEP\\202001_PEP.csv')
 peps = csv.DictReader(arquivo)
